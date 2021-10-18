@@ -35,7 +35,7 @@ It has Two Modes:
 
 ## HARDWARE DEVICE
 ![here](pictures/pic1.jpeg)  
-![here](pictures/pic2.jpeg)   
+![here](pictures/picnn2.jpeg)   
 ![here](pictures/pic3.jpg) 
           
           
