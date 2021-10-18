@@ -29,11 +29,24 @@ It has Two Modes:
 ![here](flowchart.PNG)
 
 ## CIRCUIT BLUEPRINT 
+![here](circuitbb.png)
+![here](netcircuit.png)
 
 
 ## HARDWARE DEVICE
-         
+![here](pictures/pic1.jpeg)  
+![here](pictures/pic2.jpeg)   
+![here](pictures/pic3.jpg) 
           
           
 
-## ANDROID APPLICATION SCREENSHOTS
+## PRODUCT OPERATION SCREENSHOTS
+ ![here](pictures/P1.jpeg) 
+ ![here](pictures/P2.jpeg) 
+ ![here](pictures/P3.jpeg) 
+ ![here](pictures/P4.jpeg) 
+ ![here](pictures/P5.jpeg) 
+ ![here](pictures/P6.jpeg) 
+ ![here](pictures/P7.jpeg) 
+ ![here](pictures/P8.jpeg) 
+
